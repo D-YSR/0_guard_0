@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "D_YSR-Server-MC.aternos.me",
+    "port": 37640,
     "version": "1.21.1"
   },
   "position": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Perzuu"
+      "password": "D.yasser12+0_guard_0+"
     },
     "anti-afk": {
       "enabled": true,
