@@ -1,25 +1,25 @@
 {
-  "name": "0_guard_0",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "0_guard_0",
+    "username": "KingBot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "D_YSR-Server-MC.aternos.me",
-    "port": "",
+    "port": 37640,
     "version": "1.21.1"
   },
   "position": {
     "enabled": true,
-    "x": -9,
-    "y": 121,
-    "z": 3
+    "x": 0,
+    "y": 100,
+    "z": 0
   },
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "D.yasser12+0_guard_0+"
+      "password": "Perzuu"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe",
+        "Subscribe to kingsowrov!",
         "I like to play Minecraft!"
       ]
     },
@@ -88,4 +88,4 @@
   "chat": {
     "respond": true
   }
-}
+} 
